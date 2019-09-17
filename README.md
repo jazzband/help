@@ -2,8 +2,7 @@
 
 This is just a placeholder repo for some of the [Jazzband's roadies](https://jazzband.co/roadies):
 
-- [Issues tracker](https://github.com/jazzband/roadies/issues) ([New issue](https://github.com/jazzband/roadies/issues/new))
-- [Wiki](https://github.com/jazzband/roadies/wiki)
+- [Issues tracker](https://github.com/jazzband-roadies/help/issues) ([New issue](https://github.com/jazzband-roadies/help/issues/new))
 
 If you want to reach out to other Jazzband members check out the
 `#jazzband` IRC channel on Freenode (`irc.freenode.net`).
